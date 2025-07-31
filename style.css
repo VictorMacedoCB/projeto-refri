@@ -98,4 +98,7 @@
         height: 40px;
         font-size: large;
     }
+    .item .fruit {
+        top: 35%;
+    }
 }
