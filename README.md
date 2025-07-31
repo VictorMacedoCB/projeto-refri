@@ -1,4 +1,4 @@
-## Projeto Simples de Landing Page ##
+## Projeto Simples de Landing Page 
 
 Este projeto foi feito com base no vídeo Como Fazer Aplicação Animada com HTML, Javascript e CSS, do canal DevClub, como exercício prático de HTML, CSS e responsividade.  
 O código foi reproduzido com pequenas adaptações com o objetivo de entender melhor estrutura, layout e efeitos visuais.
@@ -12,3 +12,8 @@ O código foi reproduzido com pequenas adaptações com o objetivo de entender m
 ✅ Alterações pessoais:
 - Adicionei animação para a lata subir junto com o texto.
 - Pequenos ajustes visuais para deixar mais dinâmico
+
+## Visualize o Projeto Online
+
+Você pode ver o site funcionando neste link:  
+👉 [Landing Page do Projeto Refri](https://victormacedocb.github.io/projeto-refri/)
