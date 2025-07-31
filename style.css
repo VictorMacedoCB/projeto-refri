@@ -83,6 +83,4 @@
 
 .item.active .refri {
     animation: toActive 1.0s ease-in-out 1;    
-    
-
 }
